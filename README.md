@@ -1,3 +1,3 @@
 # Engenharia-de-Software
 
-Projeto de Engenharia de Software - Modelo de Negócio
+Projeto de Engenharia de Software
